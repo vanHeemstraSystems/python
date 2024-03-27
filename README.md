@@ -1,7 +1,7 @@
-repository-name
-# Repository Name
+python
+# Python
 
-Based on "ABC" at https://www.abc.com/
+Based on "Python not working in the command line of git bash" at https://stackoverflow.com/questions/32597209/python-not-working-in-the-command-line-of-git-bash
 
 ## 100 - Introduction
 
