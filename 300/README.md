@@ -1,7 +1,7 @@
 # 300 - Building Our Application
 
 **Temporary solution**
-Just enter this in your git shell on windows - > alias python='winpty python.exe', that is all and you are going to have alias to the python executable. This alias will be valid for the duration of the shell session.
+Just enter this in your git shell on windows - > ```alias python='winpty python.exe'```, that is all and you are going to have alias to the python executable. This alias will be valid for the duration of the shell session.
 
 [winpty](https://github.com/rprichard/winpty) is a Windows software package providing an interface similar to a Unix pty-master for communicating with Windows console programs.
 
